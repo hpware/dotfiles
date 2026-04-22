@@ -1,7 +1,7 @@
 /* 全局设置 */
 * {
     font-family:
-        "Apple Nerd Font", "Font Awesome 6 Free", "Font Awesome 6 Free Solid";
+        "Noto Nerd Font", "Font Awesome 6 Free", "Font Awesome 6 Free Solid";
     font-weight: bold;
     font-size: 14px;
     color: #dcdfe1;
@@ -64,6 +64,7 @@
 #pulseaudio,
 #backlight,
 #custom-temperature,
+#custom-watt,
 #memory,
 #cpu {
     background-color: rgba(15, 27, 53, 0.9);
